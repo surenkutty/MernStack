@@ -89,7 +89,7 @@ function App() {
                 
                     
                     <button className='btn bg-warning' onClick={() => setEditId(item._id)}>Edit</button>
-                    <button className='btn bg-danger'></button>:
+                    <button className='btn bg-danger'>Delete</button>:
               
                 </div>
               </li>
